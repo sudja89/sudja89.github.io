@@ -15,4 +15,4 @@ I make this kind of code to learn how to program.
 ---
 2. Notas musicales [Vista](https://sudja89.github.io/2-notasMusicales/index.html)
 
-    It is a practice of moving forward or backward using the buttons and modifying the different circles.
+    It is a matter of moving the musical scale forward or backward, using the buttons modifying the different circles that indicate the note on which it is located.
