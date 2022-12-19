@@ -31,3 +31,8 @@ I make this kind of code to learn how to program.
 5. Load image [Vista](https://sudja89.github.io/5-cargarImagen/index.html)
 
     An initial loading of the body of the web with a fog effect that gradually disappears until 100% is completed.
+
+---
+6. Animated scroll [Vista](https://sudja89.github.io/6-scrollAnimado/index.html)
+
+    As you go down, objects appear from both sides giving a sensation of movement.
