@@ -43,6 +43,6 @@ I make this kind of code to learn how to program.
     Effect that separates the screen by enlarging the area in which the mouse is positioned.
 
 ---
-8. Animated scroll [Vista](https://sudja89.github.io/8-resgistroSaltarin/index.html)
+8. Animated scroll [Vista](https://sudja89.github.io/8-registroSaltarin/index.html)
 
     In the form, it moves the field up every time you want to insert data.
