@@ -36,3 +36,13 @@ I make this kind of code to learn how to program.
 6. Animated scroll [Vista](https://sudja89.github.io/6-scrollAnimado/index.html)
 
     As you go down, objects appear from both sides giving a sensation of movement.
+
+---
+7. Animated scroll [Vista](https://sudja89.github.io/7-epiBlas/index.html)
+
+    Effect that separates the screen by enlarging the area in which the mouse is positioned.
+
+---
+8. Animated scroll [Vista](https://sudja89.github.io/8-resgistroSaltarin/index.html)
+
+    In the form, it moves the field up every time you want to insert data.
