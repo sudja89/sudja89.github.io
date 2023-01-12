@@ -71,3 +71,9 @@ I make this kind of code to learn how to program.
 11. Repeat count [Demo](https://sudja89.github.io/11-cuentaRepetida/index.html)
 
    It counts down allowing you to reset when you reach the goal.
+
+---
+
+12. Animated navigator [Demo](https://sudja89.github.io/12-navegadorAnimado/index.html)
+
+   Useful as well as beautiful browser that expands or retracts
